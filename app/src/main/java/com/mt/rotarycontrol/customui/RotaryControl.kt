@@ -10,6 +10,7 @@ import android.graphics.Typeface
 import android.graphics.drawable.Drawable
 import android.text.TextPaint
 import android.util.AttributeSet
+import android.util.Log
 import android.util.TypedValue
 import android.view.Gravity
 import android.view.MotionEvent
@@ -218,11 +219,13 @@ class RotaryControl @JvmOverloads constructor(
                 }
                 MotionEvent.ACTION_UP -> {
                     isTooltipErase = true
+                    invalidate()
                 }
             }
             true
         }
     }
+
 
 
     private fun setValueByAngle(angle: Double) {

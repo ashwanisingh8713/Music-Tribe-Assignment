@@ -16,11 +16,12 @@ The main objective is to draw a rotary control with below requirements:
 #### The video demonstrating the expectations is in this link: https://drive.google.com/file/d/1UktyYNeBBQoSDbb41I9LtwhMMbHqCYBg/view?usp=sharing
 
 ## App Video Link
-https://drive.google.com/file/d/1VQ0VQsEYkePgKLkvQuUJRinHIN_n0Wbi/view?usp=sharing
+https://drive.google.com/file/d/1wGEYTCVRXndKD-chBLUzXy0mdjdPs7MX/view?usp=sharing
 
 ## Screenshots
 ![First Launch ](https://github.com/ashwanisingh8713/musictribe_assigment/blob/master/screeshots/01.png)
 ![Step Rotary Control  ](https://github.com/ashwanisingh8713/musictribe_assigment/blob/master/screeshots/02.png)
 ![Continuous Rotary Control  ](https://github.com/ashwanisingh8713/musictribe_assigment/blob/master/screeshots/03.png)
 ![With Values  ](https://github.com/ashwanisingh8713/musictribe_assigment/blob/master/screeshots/04.png)
+![With Different Background  ](https://github.com/ashwanisingh8713/musictribe_assigment/blob/master/screeshots/00.png)
 

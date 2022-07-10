@@ -56,8 +56,6 @@
         />
 
 
-<!--    Continuous   -->
-
 
     <TextView
         android:id="@+id/rotary_continuous_title"
@@ -96,7 +94,7 @@
         app:rotaryIndicatorWidth="10dp"
         app:rotaryIndicatorColor="@color/red"
         app:rotarySelectedMarkerColor="@color/green"
-        app:rotaryDrawable="@drawable/rotary"
+        app:rotaryDrawable="@drawable/img"
         app:rotaryNumberOfStates="59"
         app:rotaryDefaultState="0"
         app:rotaryMarkersColor="@color/purple"
