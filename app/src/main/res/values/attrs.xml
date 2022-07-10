@@ -1,0 +1,33 @@
+<resources>
+    <declare-styleable name="Rotary">
+        <attr name="rotaryNumberOfStates" format="integer"/>
+        <attr name="rotaryDefaultState" format="integer"/>
+
+        <attr name="rotaryDrawable" format="integer"/>
+
+        <attr name="rotaryMinAngle" format="float"/>
+        <attr name="rotaryMaxAngle" format="float"/>
+
+        <attr name="rotarySelectedMarkerColor" format="reference|color"/>
+        <attr name="rotaryMarkersColor" format="reference|color"/>
+        <attr name="rotaryMarkersLength" format="float"/>
+        <attr name="rotaryMarkersWidth" format="dimension"/>
+
+        <attr name="rotaryIndicatorRelativeLength" format="float"/>
+        <attr name="rotaryIndicatorWidth" format="dimension"/>
+        <attr name="rotaryIndicatorColor" format="reference|color"/>
+
+        <attr name="rotaryStepValues" format="reference"/>
+        <attr name="rotaryContinuousStopPoint" format="reference"/>
+        <attr name="rotaryTextSize" format="dimension"/>
+        <attr name="tooptipTextSize" format="dimension"/>
+        <attr name="tooptipHeight" format="dimension"/>
+        <attr name="tooptipWidth" format="dimension"/>
+
+        <attr name="rotaryType">
+            <enum name="step" value = "0"/>
+            <enum name="continuous" value = "1"/>
+        </attr>
+
+    </declare-styleable>
+</resources>

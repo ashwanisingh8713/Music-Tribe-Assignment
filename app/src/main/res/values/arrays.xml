@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="stepMarker">
+        <item>1/4</item>
+        <item>3/4</item>
+        <item>1/2</item>
+        <item>1</item>
+        <item>4/3</item>
+        <item>3/2</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="only">
+        <item>+</item>
+        <item>0</item>
+        <item>_</item>
+    </string-array>
+
+    <string-array name="stopPoints">
+        <item>_</item>
+        <item>0</item>
+        <item>+</item>
+    </string-array>
+
+</resources>
